@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: Company Name Matcher
 emoji: 🏢
@@ -71,3 +72,6 @@ The app will find high-confidence matches between similar company names.
 ---
 
 Built with ❤️ using Streamlit and the name-matching library.
+=======
+# Company_Name_Matching
+>>>>>>> 26fd60f23e437a86a3f8af127c9fcd39c6f6c5a5
